@@ -1,6 +1,6 @@
 # 📖TextProcessor
 ---
-## Django based text proessing app
+## Django based text processing app
 
 This is a django backed web-app capable of performing text operations:-
 
