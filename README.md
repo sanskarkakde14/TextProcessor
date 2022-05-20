@@ -1,2 +1,2 @@
 # TextProcessor
-##Django based text proessing app
+## Django based text proessing app
