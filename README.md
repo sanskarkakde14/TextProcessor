@@ -1,6 +1,6 @@
 # 💬🖥TextProcessor
 ---
-### Link: https://sanstxtprocessor.herokuapp.com
+### Link: https://sanstxtprocessor.herokuapp.com (may not work as Heroku free postgres dyno policy change)
 ## Django based text processing app
 
 This is a django backed web-app capable of performing text operations:-
